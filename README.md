@@ -1,2 +1,2 @@
-# skibidi-toilet
+# openai-nim-proxy
 X
